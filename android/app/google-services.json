@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "980429985904",
+    "firebase_url": "https://timah-teo.firebaseio.com",
+    "project_id": "timah-teo",
+    "storage_bucket": "timah-teo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980429985904:android:07e193cbc50fe0cd",
+        "android_client_info": {
+          "package_name": "id.co.pttimah.teo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980429985904-f6o1ak4735n8amualhg83chf3380jvkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1GL2Ul3JGRMv7s1wM9MQP6hlpMULn_C4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
